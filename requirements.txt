@@ -1,1 +1,13 @@
+yfinance==0.2.65
+pandas==2.2.3
+numpy==1.26.4
+openpyxl==3.1.5
+statsmodels==0.14.4
+seaborn==0.13.2
+matplotlib==3.9.2
+scikit-learn==1.5.2
+networkx==3.3
 
+torch==2.4.1
+torch-geometric==2.6.1
+torch-geometric-temporal==0.56.2
